@@ -1,0 +1,10 @@
+<configure
+   xmlns="http://namespaces.zope.org/zope"
+   xmlns:zojax="http://namespaces.zope.org/zojax">
+
+  <zojax:resourceinclude
+     name="jquery.i18n.js"
+     library="jquery-plugins" require="jquery"
+     type="javascript" file="jquery.i18n.js" />
+
+</configure>
